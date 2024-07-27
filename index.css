@@ -1,0 +1,60 @@
+*
+
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(243, 235, 242);
+}
+.forms
+    {
+        text-align: center;
+        font-weight: 500;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        height: 400px;
+    }
+.classes
+    {
+        
+        text-align: center;
+        font-weight: 500;
+        font-size: large;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        height: 200px;
+    }
+.languages
+    {
+       
+        text-align: center;
+        font-weight: 500;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        height: 300px;
+    }
+    .conclusion
+    {
+        text-align: center;
+        font-weight: 500;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+    }
+
+h1 
+    {color: rgb(248, 244, 248);
+     background-color: rgb(90, 3, 86);
+     text-align: center;
+     
+    }
+h2
+    {
+        color: rgb(71, 63, 71);
+        
+       text-align: center;  
+    }    
+h3 
+    {color: rgb(69, 69, 77);
+     background-color:rgb(247, 169, 247) ;
+    text-align: center;
+    font-size:xx-large;
+    }
+details
+    {
+        font-weight: bold;
+    }
